@@ -1,0 +1,39 @@
+div#plugin_newsletter {
+	margin: 10px 0 0 0;
+}
+
+div#plugin_newsletter div.clear {
+	clear: both;
+}
+
+/* Navigation */
+div#plugin_newsletter div.navigation {
+	background: #EEEEEE;
+	margin-bottom: 12px;
+	padding: 0 0 0 6px;
+	border-top: 1px solid #BDBDBD;
+}
+
+div#plugin_newsletter div.navigation ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+div#plugin_newsletter div.navigation ul li {
+	background-color: #FFFFFF;
+	border-left: 1px solid #DDDDDD;
+	border-right: 1px solid #DDDDDD;
+	border-top: 1px solid #DDDDDD;
+	float: left;
+	display: block;
+	font-size: 13px;
+	margin: 3px 5px 0 0;
+	padding: 5px 6px 3px 6px;
+}
+
+div#plugin_newsletter div.navigation ul li a {
+	color: #21759B;
+	font-weight: normal;
+	text-decoration: none;
+}
